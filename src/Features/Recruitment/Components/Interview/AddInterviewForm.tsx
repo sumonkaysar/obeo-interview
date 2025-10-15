@@ -104,7 +104,7 @@ const AddInterviewForm = () => {
           <div className="grid gap-4">
             <div className="border">
               <h2 className="text-xl font-semibold border-b pt-1 pb-3 px-4">
-                Interview
+                Add Interview
               </h2>
               <Form {...form}>
                 <form
